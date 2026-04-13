@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,qcloud.live
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN,ip.skk.moe
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 
 #关键词匹配
