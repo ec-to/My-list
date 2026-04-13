@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,qcloud.live
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com  #google开发者验证
 
 
 #关键词匹配
