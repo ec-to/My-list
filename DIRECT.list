@@ -22,7 +22,9 @@ DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com  #google开发者验证
 DOMAIN-SUFFIX,heytapdownload.com
-
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,apple.com.cn
 
 #关键词匹配
 DOMAIN-KEYWORD,xiaomi
