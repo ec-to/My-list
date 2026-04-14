@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com  #google开发者验证
+DOMAIN-SUFFIX,heytapdownload.com
 
 
 #关键词匹配
@@ -31,3 +32,4 @@ DOMAIN-KEYWORD,lanzou
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,heytap
