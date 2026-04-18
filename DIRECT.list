@@ -36,3 +36,11 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,heytap
 DOMAIN-KEYWORD,hongguo
+
+
+#应用包名
+PROCESS-NAME,com.eg.android.AlipayGphone  #支付宝
+PROCESS-NAME,com.tencent.mm #微信
+PROCESS-NAME,com.taobao.taobao #淘宝
+PROCESS-NAME,com.unionpay  #云闪付
+PROCESS-NAME,com.xiaomi.smarthome  #米家
