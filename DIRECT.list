@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,novelquickapp.com #红果备用
 
 #关键词匹配
 DOMAIN-KEYWORD,xiaomi
@@ -34,3 +35,4 @@ DOMAIN-KEYWORD,lanzou
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,heytap
+DOMAIN-KEYWORD,hongguo
