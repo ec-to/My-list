@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,bigo.live
 DOMAIN-SUFFIX,bigovideo.tv
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-static.net
 
 #关键字
 #DOMAIN-KEYWORD,google
