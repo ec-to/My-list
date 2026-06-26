@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,novelquickapp.com #红果备用
 DOMAIN-SUFFIX,xhslink.com #小红书
+DOMAIN-SUFFIX,ele.me
+
+
 
 #关键词匹配
 DOMAIN-KEYWORD,xiaomi
@@ -51,4 +54,5 @@ PROCESS-NAME,com.unionpay  #云闪付
 PROCESS-NAME,com.xiaomi.smarthome  #米家
 PROCESS-NAME,com.sankuai.meituan  #美团
 PROCESS-NAME,com.dianping.v1  #大众
-
+PROCESS-NAME,com.sankuai.meituan.takeoutnew  #美团外卖
+PROCESS-NAME,me.ele  #饿了么
