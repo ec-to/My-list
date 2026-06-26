@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,dpfile.com   #大众cdn
 
 
 #关键词匹配
+DOMAIN-KEYWORD,tencent
 DOMAIN-KEYWORD,xiaomi
 DOMAIN-KEYWORD,quark
 DOMAIN-KEYWORD,douyin
