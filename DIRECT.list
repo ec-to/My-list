@@ -37,6 +37,10 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,oray
 DOMAIN-KEYWORD,heytap
 DOMAIN-KEYWORD,hongguo
+DOMAIN-KEYWORD,meituan
+DOMAIN-KEYWORD,dianpong
+DOMAIN-KEYWORD,sankuai  #北京三快（美团大众）
+
 
 
 #应用包名
@@ -45,3 +49,6 @@ PROCESS-NAME,com.tencent.mm #微信
 PROCESS-NAME,com.taobao.taobao #淘宝
 PROCESS-NAME,com.unionpay  #云闪付
 PROCESS-NAME,com.xiaomi.smarthome  #米家
+PROCESS-NAME,com.sankuai.meituan  #美团
+PROCESS-NAME,com.dianping.v1  #大众
+
