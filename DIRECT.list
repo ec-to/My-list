@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,dianping.com   #大众
 DOMAIN-SUFFIX,sankuai.com   #北京三快（美团大众）
 DOMAIN-SUFFIX,dpfile.com   #大众cdn
+DOMAIN-SUFFIX,aliyun.com
 
 
 #关键词匹配
